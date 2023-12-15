@@ -1,0 +1,3 @@
+hidden_size: 512
+lr: 0.01
+seq_length: 1

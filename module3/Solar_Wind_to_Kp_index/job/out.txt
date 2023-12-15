@@ -1,0 +1,21 @@
+Done normalizing data!!!
+MSE of biLSTM: 7.711E-02
+RMSE of biLSTM: 2.777E-01
+NRMSE of biLSTM: 2.10 %
+R2 score: 0.9906872478393223
+Geomagnetic storm detected after    10 days and   8 hours and will continue   4 days   0 hours
+
+Geomagnetic storm detected after    26 days and  19 hours and will continue   0 days   1 hours
+
+Geomagnetic storm detected after    31 days and  17 hours and will continue   2 days   0 hours
+
+Geomagnetic storm detected after    43 days and  17 hours and will continue   1 days   0 hours
+
+Geomagnetic storm detected after    58 days and   4 hours and will continue   2 days  16 hours
+
+Geomagnetic storm detected after    61 days and  18 hours and will continue   7 days  17 hours
+
+Geomagnetic storm detected after    79 days and   3 hours and will continue   7 days  20 hours
+
+Geomagnetic storm detected after    87 days and  22 hours and will continue   1 days   0 hours
+
